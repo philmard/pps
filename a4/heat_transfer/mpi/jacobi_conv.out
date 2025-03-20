@@ -1,0 +1,3 @@
+Jacobi X 512 Y 512 Px 8 Py 8 Iter 236001 ComputationTime 3.081071 TotalTime 41.335735 CommunicationTime 37.281586 midpoint 2.774119
+Jacobi X 512 Y 512 Px 8 Py 8 Iter 236001 ComputationTime 3.081375 TotalTime 41.357720 CommunicationTime 37.269401 midpoint 2.774119
+Jacobi X 512 Y 512 Px 8 Py 8 Iter 236001 ComputationTime 3.082329 TotalTime 41.513983 CommunicationTime 37.470222 midpoint 2.774119

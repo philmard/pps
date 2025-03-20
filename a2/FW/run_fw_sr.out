@@ -1,0 +1,66 @@
+--------------------------------------------------------------
+
+Running with 1 threads
+FW_SR,1024,256,0.7968
+
+Running with 2 threads
+FW_SR,1024,256,0.5780
+
+Running with 4 threads
+FW_SR,1024,256,0.5543
+
+Running with 8 threads
+FW_SR,1024,256,0.6049
+
+Running with 16 threads
+FW_SR,1024,256,0.5814
+
+Running with 32 threads
+FW_SR,1024,256,0.6484
+
+Running with 64 threads
+FW_SR,1024,256,0.6820
+--------------------------------------------------------------
+
+Running with 1 threads
+FW_SR,2048,256,5.4883
+
+Running with 2 threads
+FW_SR,2048,256,3.4650
+
+Running with 4 threads
+FW_SR,2048,256,3.0168
+
+Running with 8 threads
+FW_SR,2048,256,3.1624
+
+Running with 16 threads
+FW_SR,2048,256,3.1862
+
+Running with 32 threads
+FW_SR,2048,256,3.2157
+
+Running with 64 threads
+FW_SR,2048,256,3.5429
+--------------------------------------------------------------
+
+Running with 1 threads
+FW_SR,4096,256,43.4495
+
+Running with 2 threads
+FW_SR,4096,256,24.6804
+
+Running with 4 threads
+FW_SR,4096,256,18.5424
+
+Running with 8 threads
+FW_SR,4096,256,17.6171
+
+Running with 16 threads
+FW_SR,4096,256,17.7088
+
+Running with 32 threads
+FW_SR,4096,256,18.3634
+
+Running with 64 threads
+FW_SR,4096,256,18.7816

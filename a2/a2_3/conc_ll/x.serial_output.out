@@ -1,0 +1,24 @@
+Running x.serial with 1 threads, list size 1024, ratio 100-0-0
+MT_CONF=0
+Nthreads: 1  Runtime(sec): 10  Workload: 100/0/0  Throughput(Kops/sec): 1566.45
+Running x.serial with 1 threads, list size 1024, ratio 80-10-10
+MT_CONF=0
+Nthreads: 1  Runtime(sec): 10  Workload: 80/10/10  Throughput(Kops/sec): 2053.05
+Running x.serial with 1 threads, list size 1024, ratio 20-40-40
+MT_CONF=0
+Nthreads: 1  Runtime(sec): 10  Workload: 20/40/40  Throughput(Kops/sec): 1613.55
+Running x.serial with 1 threads, list size 1024, ratio 0-50-50
+MT_CONF=0
+Nthreads: 1  Runtime(sec): 10  Workload: 0/50/50  Throughput(Kops/sec): 1515.75
+Running x.serial with 1 threads, list size 8192, ratio 100-0-0
+MT_CONF=0
+Nthreads: 1  Runtime(sec): 10  Workload: 100/0/0  Throughput(Kops/sec): 153.60
+Running x.serial with 1 threads, list size 8192, ratio 80-10-10
+MT_CONF=0
+Nthreads: 1  Runtime(sec): 10  Workload: 80/10/10  Throughput(Kops/sec): 65.17
+Running x.serial with 1 threads, list size 8192, ratio 20-40-40
+MT_CONF=0
+Nthreads: 1  Runtime(sec): 10  Workload: 20/40/40  Throughput(Kops/sec): 85.99
+Running x.serial with 1 threads, list size 8192, ratio 0-50-50
+MT_CONF=0
+Nthreads: 1  Runtime(sec): 10  Workload: 0/50/50  Throughput(Kops/sec): 91.55

@@ -1,0 +1,192 @@
+Running x.lazy with 1 threads, list size 1024, ratio 100-0-0
+MT_CONF=0
+Nthreads: 1  Runtime(sec): 10  Workload: 100/0/0  Throughput(Kops/sec): 1563.02
+Running x.lazy with 2 threads, list size 1024, ratio 100-0-0
+MT_CONF=0,1
+Nthreads: 2  Runtime(sec): 10  Workload: 100/0/0  Throughput(Kops/sec): 3103.83
+Running x.lazy with 4 threads, list size 1024, ratio 100-0-0
+MT_CONF=0,1,2,3
+Nthreads: 4  Runtime(sec): 10  Workload: 100/0/0  Throughput(Kops/sec): 5970.31
+Running x.lazy with 8 threads, list size 1024, ratio 100-0-0
+MT_CONF=0,1,2,3,4,5,6,7
+Nthreads: 8  Runtime(sec): 10  Workload: 100/0/0  Throughput(Kops/sec): 11045.85
+Running x.lazy with 16 threads, list size 1024, ratio 100-0-0
+MT_CONF=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+Nthreads: 16  Runtime(sec): 10  Workload: 100/0/0  Throughput(Kops/sec): 22063.78
+Running x.lazy with 32 threads, list size 1024, ratio 100-0-0
+MT_CONF=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31
+Nthreads: 32  Runtime(sec): 10  Workload: 100/0/0  Throughput(Kops/sec): 44116.30
+Running x.lazy with 64 threads, list size 1024, ratio 100-0-0
+MT_CONF=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31
+Nthreads: 64  Runtime(sec): 10  Workload: 100/0/0  Throughput(Kops/sec): 44145.99
+Running x.lazy with 128 threads, list size 1024, ratio 100-0-0
+MT_CONF=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31
+Nthreads: 128  Runtime(sec): 10  Workload: 100/0/0  Throughput(Kops/sec): 44140.63
+Running x.lazy with 1 threads, list size 1024, ratio 80-10-10
+MT_CONF=0
+Nthreads: 1  Runtime(sec): 10  Workload: 80/10/10  Throughput(Kops/sec): 1893.37
+Running x.lazy with 2 threads, list size 1024, ratio 80-10-10
+MT_CONF=0,1
+Nthreads: 2  Runtime(sec): 10  Workload: 80/10/10  Throughput(Kops/sec): 1741.22
+Running x.lazy with 4 threads, list size 1024, ratio 80-10-10
+MT_CONF=0,1,2,3
+Nthreads: 4  Runtime(sec): 10  Workload: 80/10/10  Throughput(Kops/sec): 1367.00
+Running x.lazy with 8 threads, list size 1024, ratio 80-10-10
+MT_CONF=0,1,2,3,4,5,6,7
+Nthreads: 8  Runtime(sec): 10  Workload: 80/10/10  Throughput(Kops/sec): 1834.41
+Running x.lazy with 16 threads, list size 1024, ratio 80-10-10
+MT_CONF=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+Nthreads: 16  Runtime(sec): 10  Workload: 80/10/10  Throughput(Kops/sec): 1311.16
+Running x.lazy with 32 threads, list size 1024, ratio 80-10-10
+MT_CONF=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31
+Nthreads: 32  Runtime(sec): 10  Workload: 80/10/10  Throughput(Kops/sec): 5680.17
+Running x.lazy with 64 threads, list size 1024, ratio 80-10-10
+MT_CONF=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31
+Nthreads: 64  Runtime(sec): 10  Workload: 80/10/10  Throughput(Kops/sec): 1009.67
+Running x.lazy with 128 threads, list size 1024, ratio 80-10-10
+MT_CONF=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31
+Nthreads: 128  Runtime(sec): 10  Workload: 80/10/10  Throughput(Kops/sec): 471.23
+Running x.lazy with 1 threads, list size 1024, ratio 20-40-40
+MT_CONF=0
+Nthreads: 1  Runtime(sec): 10  Workload: 20/40/40  Throughput(Kops/sec): 1486.45
+Running x.lazy with 2 threads, list size 1024, ratio 20-40-40
+MT_CONF=0,1
+Nthreads: 2  Runtime(sec): 10  Workload: 20/40/40  Throughput(Kops/sec): 1349.60
+Running x.lazy with 4 threads, list size 1024, ratio 20-40-40
+MT_CONF=0,1,2,3
+Nthreads: 4  Runtime(sec): 10  Workload: 20/40/40  Throughput(Kops/sec): 1225.33
+Running x.lazy with 8 threads, list size 1024, ratio 20-40-40
+MT_CONF=0,1,2,3,4,5,6,7
+Nthreads: 8  Runtime(sec): 10  Workload: 20/40/40  Throughput(Kops/sec): 1705.95
+Running x.lazy with 16 threads, list size 1024, ratio 20-40-40
+MT_CONF=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+Nthreads: 16  Runtime(sec): 10  Workload: 20/40/40  Throughput(Kops/sec): 1116.65
+Running x.lazy with 32 threads, list size 1024, ratio 20-40-40
+MT_CONF=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31
+Nthreads: 32  Runtime(sec): 10  Workload: 20/40/40  Throughput(Kops/sec): 3782.31
+Running x.lazy with 64 threads, list size 1024, ratio 20-40-40
+MT_CONF=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31
+Nthreads: 64  Runtime(sec): 10  Workload: 20/40/40  Throughput(Kops/sec): 300.95
+Running x.lazy with 128 threads, list size 1024, ratio 20-40-40
+MT_CONF=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31
+Nthreads: 128  Runtime(sec): 10  Workload: 20/40/40  Throughput(Kops/sec): 121.08
+Running x.lazy with 1 threads, list size 1024, ratio 0-50-50
+MT_CONF=0
+Nthreads: 1  Runtime(sec): 10  Workload: 0/50/50  Throughput(Kops/sec): 1331.39
+Running x.lazy with 2 threads, list size 1024, ratio 0-50-50
+MT_CONF=0,1
+Nthreads: 2  Runtime(sec): 10  Workload: 0/50/50  Throughput(Kops/sec): 1245.08
+Running x.lazy with 4 threads, list size 1024, ratio 0-50-50
+MT_CONF=0,1,2,3
+Nthreads: 4  Runtime(sec): 10  Workload: 0/50/50  Throughput(Kops/sec): 1192.26
+Running x.lazy with 8 threads, list size 1024, ratio 0-50-50
+MT_CONF=0,1,2,3,4,5,6,7
+Nthreads: 8  Runtime(sec): 10  Workload: 0/50/50  Throughput(Kops/sec): 1673.91
+Running x.lazy with 16 threads, list size 1024, ratio 0-50-50
+MT_CONF=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+Nthreads: 16  Runtime(sec): 10  Workload: 0/50/50  Throughput(Kops/sec): 1077.58
+Running x.lazy with 32 threads, list size 1024, ratio 0-50-50
+MT_CONF=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31
+Nthreads: 32  Runtime(sec): 10  Workload: 0/50/50  Throughput(Kops/sec): 3399.66
+Running x.lazy with 64 threads, list size 1024, ratio 0-50-50
+MT_CONF=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31
+Nthreads: 64  Runtime(sec): 10  Workload: 0/50/50  Throughput(Kops/sec): 220.57
+Running x.lazy with 128 threads, list size 1024, ratio 0-50-50
+MT_CONF=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31
+Nthreads: 128  Runtime(sec): 10  Workload: 0/50/50  Throughput(Kops/sec): 95.14
+Running x.lazy with 1 threads, list size 8192, ratio 100-0-0
+MT_CONF=0
+Nthreads: 1  Runtime(sec): 10  Workload: 100/0/0  Throughput(Kops/sec): 134.98
+Running x.lazy with 2 threads, list size 8192, ratio 100-0-0
+MT_CONF=0,1
+Nthreads: 2  Runtime(sec): 10  Workload: 100/0/0  Throughput(Kops/sec): 259.33
+Running x.lazy with 4 threads, list size 8192, ratio 100-0-0
+MT_CONF=0,1,2,3
+Nthreads: 4  Runtime(sec): 10  Workload: 100/0/0  Throughput(Kops/sec): 557.98
+Running x.lazy with 8 threads, list size 8192, ratio 100-0-0
+MT_CONF=0,1,2,3,4,5,6,7
+Nthreads: 8  Runtime(sec): 10  Workload: 100/0/0  Throughput(Kops/sec): 1076.91
+Running x.lazy with 16 threads, list size 8192, ratio 100-0-0
+MT_CONF=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+Nthreads: 16  Runtime(sec): 10  Workload: 100/0/0  Throughput(Kops/sec): 2146.01
+Running x.lazy with 32 threads, list size 8192, ratio 100-0-0
+MT_CONF=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31
+Nthreads: 32  Runtime(sec): 10  Workload: 100/0/0  Throughput(Kops/sec): 4265.73
+Running x.lazy with 64 threads, list size 8192, ratio 100-0-0
+MT_CONF=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31
+Nthreads: 64  Runtime(sec): 10  Workload: 100/0/0  Throughput(Kops/sec): 4297.54
+Running x.lazy with 128 threads, list size 8192, ratio 100-0-0
+MT_CONF=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31
+Nthreads: 128  Runtime(sec): 10  Workload: 100/0/0  Throughput(Kops/sec): 3917.48
+Running x.lazy with 1 threads, list size 8192, ratio 80-10-10
+MT_CONF=0
+Nthreads: 1  Runtime(sec): 10  Workload: 80/10/10  Throughput(Kops/sec): 56.54
+Running x.lazy with 2 threads, list size 8192, ratio 80-10-10
+MT_CONF=0,1
+Nthreads: 2  Runtime(sec): 10  Workload: 80/10/10  Throughput(Kops/sec): 111.41
+Running x.lazy with 4 threads, list size 8192, ratio 80-10-10
+MT_CONF=0,1,2,3
+Nthreads: 4  Runtime(sec): 10  Workload: 80/10/10  Throughput(Kops/sec): 208.76
+Running x.lazy with 8 threads, list size 8192, ratio 80-10-10
+MT_CONF=0,1,2,3,4,5,6,7
+Nthreads: 8  Runtime(sec): 10  Workload: 80/10/10  Throughput(Kops/sec): 318.35
+Running x.lazy with 16 threads, list size 8192, ratio 80-10-10
+MT_CONF=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+Nthreads: 16  Runtime(sec): 10  Workload: 80/10/10  Throughput(Kops/sec): 496.67
+Running x.lazy with 32 threads, list size 8192, ratio 80-10-10
+MT_CONF=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31
+Nthreads: 32  Runtime(sec): 10  Workload: 80/10/10  Throughput(Kops/sec): 846.93
+Running x.lazy with 64 threads, list size 8192, ratio 80-10-10
+MT_CONF=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31
+Nthreads: 64  Runtime(sec): 10  Workload: 80/10/10  Throughput(Kops/sec): 710.52
+Running x.lazy with 128 threads, list size 8192, ratio 80-10-10
+MT_CONF=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31
+Nthreads: 128  Runtime(sec): 10  Workload: 80/10/10  Throughput(Kops/sec): 467.50
+Running x.lazy with 1 threads, list size 8192, ratio 20-40-40
+MT_CONF=0
+Nthreads: 1  Runtime(sec): 10  Workload: 20/40/40  Throughput(Kops/sec): 61.20
+Running x.lazy with 2 threads, list size 8192, ratio 20-40-40
+MT_CONF=0,1
+Nthreads: 2  Runtime(sec): 10  Workload: 20/40/40  Throughput(Kops/sec): 118.16
+Running x.lazy with 4 threads, list size 8192, ratio 20-40-40
+MT_CONF=0,1,2,3
+Nthreads: 4  Runtime(sec): 10  Workload: 20/40/40  Throughput(Kops/sec): 226.65
+Running x.lazy with 8 threads, list size 8192, ratio 20-40-40
+MT_CONF=0,1,2,3,4,5,6,7
+Nthreads: 8  Runtime(sec): 10  Workload: 20/40/40  Throughput(Kops/sec): 336.92
+Running x.lazy with 16 threads, list size 8192, ratio 20-40-40
+MT_CONF=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+Nthreads: 16  Runtime(sec): 10  Workload: 20/40/40  Throughput(Kops/sec): 511.28
+Running x.lazy with 32 threads, list size 8192, ratio 20-40-40
+MT_CONF=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31
+Nthreads: 32  Runtime(sec): 10  Workload: 20/40/40  Throughput(Kops/sec): 798.09
+Running x.lazy with 64 threads, list size 8192, ratio 20-40-40
+MT_CONF=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31
+Nthreads: 64  Runtime(sec): 10  Workload: 20/40/40  Throughput(Kops/sec): 600.60
+Running x.lazy with 128 threads, list size 8192, ratio 20-40-40
+MT_CONF=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31
+Nthreads: 128  Runtime(sec): 10  Workload: 20/40/40  Throughput(Kops/sec): 389.68
+Running x.lazy with 1 threads, list size 8192, ratio 0-50-50
+MT_CONF=0
+Nthreads: 1  Runtime(sec): 10  Workload: 0/50/50  Throughput(Kops/sec): 65.04
+Running x.lazy with 2 threads, list size 8192, ratio 0-50-50
+MT_CONF=0,1
+Nthreads: 2  Runtime(sec): 10  Workload: 0/50/50  Throughput(Kops/sec): 123.37
+Running x.lazy with 4 threads, list size 8192, ratio 0-50-50
+MT_CONF=0,1,2,3
+Nthreads: 4  Runtime(sec): 10  Workload: 0/50/50  Throughput(Kops/sec): 230.33
+Running x.lazy with 8 threads, list size 8192, ratio 0-50-50
+MT_CONF=0,1,2,3,4,5,6,7
+Nthreads: 8  Runtime(sec): 10  Workload: 0/50/50  Throughput(Kops/sec): 351.71
+Running x.lazy with 16 threads, list size 8192, ratio 0-50-50
+MT_CONF=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+Nthreads: 16  Runtime(sec): 10  Workload: 0/50/50  Throughput(Kops/sec): 487.65
+Running x.lazy with 32 threads, list size 8192, ratio 0-50-50
+MT_CONF=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31
+Nthreads: 32  Runtime(sec): 10  Workload: 0/50/50  Throughput(Kops/sec): 790.56
+Running x.lazy with 64 threads, list size 8192, ratio 0-50-50
+MT_CONF=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31
+Nthreads: 64  Runtime(sec): 10  Workload: 0/50/50  Throughput(Kops/sec): 519.25
+Running x.lazy with 128 threads, list size 8192, ratio 0-50-50
+MT_CONF=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31
+Nthreads: 128  Runtime(sec): 10  Workload: 0/50/50  Throughput(Kops/sec): 342.22

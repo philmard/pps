@@ -1,0 +1,31 @@
+Running Game of Life with size 64x64 using 1 threads for 1000 generations.
+GameOfLife: Size 64 Steps 1000 Time 0.023139
+Running Game of Life with size 64x64 using 2 threads for 1000 generations.
+GameOfLife: Size 64 Steps 1000 Time 0.013584
+Running Game of Life with size 64x64 using 4 threads for 1000 generations.
+GameOfLife: Size 64 Steps 1000 Time 0.009996
+Running Game of Life with size 64x64 using 6 threads for 1000 generations.
+GameOfLife: Size 64 Steps 1000 Time 0.008964
+Running Game of Life with size 64x64 using 8 threads for 1000 generations.
+GameOfLife: Size 64 Steps 1000 Time 0.009662
+Running Game of Life with size 1024x1024 using 1 threads for 1000 generations.
+GameOfLife: Size 1024 Steps 1000 Time 10.964652
+Running Game of Life with size 1024x1024 using 2 threads for 1000 generations.
+GameOfLife: Size 1024 Steps 1000 Time 5.460825
+Running Game of Life with size 1024x1024 using 4 threads for 1000 generations.
+GameOfLife: Size 1024 Steps 1000 Time 2.723434
+Running Game of Life with size 1024x1024 using 6 threads for 1000 generations.
+GameOfLife: Size 1024 Steps 1000 Time 1.829067
+Running Game of Life with size 1024x1024 using 8 threads for 1000 generations.
+GameOfLife: Size 1024 Steps 1000 Time 1.375127
+Running Game of Life with size 4096x4096 using 1 threads for 1000 generations.
+GameOfLife: Size 4096 Steps 1000 Time 175.859194
+Running Game of Life with size 4096x4096 using 2 threads for 1000 generations.
+GameOfLife: Size 4096 Steps 1000 Time 88.213551
+Running Game of Life with size 4096x4096 using 4 threads for 1000 generations.
+GameOfLife: Size 4096 Steps 1000 Time 44.549267
+Running Game of Life with size 4096x4096 using 6 threads for 1000 generations.
+GameOfLife: Size 4096 Steps 1000 Time 34.578071
+Running Game of Life with size 4096x4096 using 8 threads for 1000 generations.
+GameOfLife: Size 4096 Steps 1000 Time 33.196358
+Performance measurements complete. Results are saved in performance_results.txt.

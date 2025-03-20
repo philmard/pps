@@ -1,0 +1,330 @@
+--------------------------------------------------------------
+
+Running with 1 threads
+FW,1024,2.1513
+
+Running with 2 threads
+FW,1024,1.1135
+
+Running with 4 threads
+FW,1024,0.6310
+
+Running with 8 threads
+FW,1024,0.3495
+
+Running with 16 threads
+FW,1024,0.3454
+
+Running with 32 threads
+FW,1024,0.2571
+
+Running with 64 threads
+FW,1024,0.5039
+--------------------------------------------------------------
+
+Running with 1 threads
+FW,2048,17.5855
+
+Running with 2 threads
+FW,2048,8.5673
+
+Running with 4 threads
+FW,2048,4.4546
+
+Running with 8 threads
+FW,2048,2.3925
+
+Running with 16 threads
+FW,2048,1.6430
+
+Running with 32 threads
+FW,2048,1.4003
+
+Running with 64 threads
+FW,2048,1.1966
+--------------------------------------------------------------
+
+Running with 1 threads
+FW,4096,146.8081
+
+Running with 2 threads
+FW,4096,89.5885
+
+Running with 4 threads
+FW,4096,37.5005
+
+Running with 8 threads
+FW,4096,22.5751
+
+Running with 16 threads
+FW,4096,20.6135
+
+Running with 32 threads
+FW,4096,31.0465
+
+Running with 64 threads
+FW,4096,15.6845
+--------------------------------------------------------------
+
+Running with 1 threads
+FW,1024,2.1144
+
+Running with 2 threads
+FW,1024,1.1152
+
+Running with 4 threads
+FW,1024,0.6022
+
+Running with 8 threads
+FW,1024,0.3709
+
+Running with 16 threads
+FW,1024,0.3445
+
+Running with 32 threads
+FW,1024,0.3047
+
+Running with 64 threads
+FW,1024,0.5870
+--------------------------------------------------------------
+
+Running with 1 threads
+FW,2048,17.9933
+
+Running with 2 threads
+FW,2048,8.5556
+
+Running with 4 threads
+FW,2048,4.5870
+
+Running with 8 threads
+FW,2048,2.3562
+
+Running with 16 threads
+FW,2048,1.7026
+
+Running with 32 threads
+FW,2048,1.4136
+
+Running with 64 threads
+FW,2048,1.1187
+--------------------------------------------------------------
+
+Running with 1 threads
+FW,4096,143.2521
+
+Running with 2 threads
+FW,4096,83.0585
+
+Running with 4 threads
+FW,4096,37.5690
+
+Running with 8 threads
+FW,4096,22.3766
+
+Running with 16 threads
+FW,4096,19.9993
+
+Running with 32 threads
+FW,4096,45.5019
+
+Running with 64 threads
+FW,4096,16.5354
+--------------------------------------------------------------
+
+Running with 1 threads
+FW,1024,2.1183
+
+Running with 2 threads
+FW,1024,1.1873
+
+Running with 4 threads
+FW,1024,0.6236
+
+Running with 8 threads
+FW,1024,0.3611
+
+Running with 16 threads
+FW,1024,0.3357
+
+Running with 32 threads
+FW,1024,0.2150
+
+Running with 64 threads
+FW,1024,0.2906
+--------------------------------------------------------------
+
+Running with 1 threads
+FW,2048,17.9227
+
+Running with 2 threads
+FW,2048,8.5564
+
+Running with 4 threads
+FW,2048,4.5052
+
+Running with 8 threads
+FW,2048,2.4936
+
+Running with 16 threads
+FW,2048,1.4451
+
+Running with 32 threads
+FW,2048,1.3317
+
+Running with 64 threads
+FW,2048,1.0132
+--------------------------------------------------------------
+
+Running with 1 threads
+FW,4096,143.3193
+
+Running with 2 threads
+FW,4096,86.2973
+
+Running with 4 threads
+FW,4096,37.2374
+
+Running with 8 threads
+FW,4096,21.9657
+
+Running with 16 threads
+FW,4096,18.6931
+
+Running with 32 threads
+FW,4096,42.9818
+
+Running with 64 threads
+FW,4096,16.5669
+--------------------------------------------------------------
+
+Running with 1 threads
+FW,1024,2.1135
+
+Running with 2 threads
+FW,1024,1.1111
+
+Running with 4 threads
+FW,1024,0.6101
+
+Running with 8 threads
+FW,1024,0.4657
+
+Running with 16 threads
+FW,1024,0.2319
+
+Running with 32 threads
+FW,1024,0.2303
+
+Running with 64 threads
+FW,1024,0.2629
+--------------------------------------------------------------
+
+Running with 1 threads
+FW,2048,17.5668
+
+Running with 2 threads
+FW,2048,8.5677
+
+Running with 4 threads
+FW,2048,4.5492
+
+Running with 8 threads
+FW,2048,2.5096
+
+Running with 16 threads
+FW,2048,1.4431
+
+Running with 32 threads
+FW,2048,1.3358
+
+Running with 64 threads
+FW,2048,1.0648
+--------------------------------------------------------------
+
+Running with 1 threads
+FW,4096,147.4256
+
+Running with 2 threads
+FW,4096,83.1208
+
+Running with 4 threads
+FW,4096,37.7905
+
+Running with 8 threads
+FW,4096,23.8572
+
+Running with 16 threads
+FW,4096,18.4381
+
+Running with 32 threads
+FW,4096,40.7814
+
+Running with 64 threads
+FW,4096,18.0381
+--------------------------------------------------------------
+
+Running with 1 threads
+FW,1024,2.1146
+
+Running with 2 threads
+FW,1024,1.1134
+
+Running with 4 threads
+FW,1024,0.6061
+
+Running with 8 threads
+FW,1024,0.3366
+
+Running with 16 threads
+FW,1024,0.2344
+
+Running with 32 threads
+FW,1024,0.2879
+
+Running with 64 threads
+FW,1024,0.2105
+--------------------------------------------------------------
+
+Running with 1 threads
+FW,2048,17.5936
+
+Running with 2 threads
+FW,2048,8.5669
+
+Running with 4 threads
+FW,2048,4.5066
+
+Running with 8 threads
+FW,2048,2.5315
+
+Running with 16 threads
+FW,2048,1.7085
+
+Running with 32 threads
+FW,2048,1.3606
+
+Running with 64 threads
+FW,2048,1.2620
+--------------------------------------------------------------
+
+Running with 1 threads
+FW,4096,143.1431
+
+Running with 2 threads
+FW,4096,82.9151
+
+Running with 4 threads
+FW,4096,38.0046
+
+Running with 8 threads
+FW,4096,24.9852
+
+Running with 16 threads
+FW,4096,26.3277
+
+Running with 32 threads
+FW,4096,47.0400
+
+Running with 64 threads
+FW,4096,15.8175
